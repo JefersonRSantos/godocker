@@ -1,3 +1,5 @@
+### Não consegui fazer a imagem ter apenas 2MEGAS, na vdd passei longe disso, mals"
+
 FROM alpine:latest
 
 RUN apk add go
